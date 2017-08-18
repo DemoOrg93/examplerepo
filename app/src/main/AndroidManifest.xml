@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sonika.onlineshoes">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".UserPanel"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UserLogin"
+            android:label="Login"
+            android:parentActivityName=".UserLogin" />
+        <activity
+            android:name=".Register"
+            android:label="Register"
+            android:parentActivityName=".Register" />
+        <activity
+            android:name=".AdminLogin"
+            android:label="Admin Panel"
+            android:parentActivityName=".AdminLogin" />
+        <activity
+            android:name=".UserDetail"
+            android:label="user detail"
+            android:parentActivityName=".UserDetail" />
+        <activity
+            android:name=".Loginfirst"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity
+            android:name=".Description"
+            android:label="Shoe Description"
+            android:parentActivityName=".Description" />
+        <activity
+            android:name=".OrderShoe"
+            android:label="Order Shoe"
+            android:parentActivityName=".OrderShoe" />
+        <activity
+            android:name=".Admin"
+            android:label="@string/title_activity_admin"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MyOrders" />
+        <activity android:name=".Splash"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

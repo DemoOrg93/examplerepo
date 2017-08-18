@@ -1,0 +1,63 @@
+{
+    "Datas": {
+        "Gents": 
+		[
+		
+		{"id":"g1",
+		"Quality":"good",
+		"Price":"1000",
+		"Description":"This is a nice quality of shoe. It was made in Thailand. It is available in red, black and blue.",
+		"Image":"https://www.pakrobe.com/image/cache/data/Shoes/Gents%20cappel/black-gents-chappal-by-metro-a9411-800x800.JPG"},
+		
+		{"id":"g2",
+		"Quality":"excellent",
+		"Price":"3000",
+		"Description":"This is a nice quality of shoe. It was made in UK. It is available in brown and black.",
+		"Image":"http://images.esellerpro.com/2673/I/668/96/64248-3.jpg"},
+
+		
+		{"id":"g3",
+		"Quality":"good",
+		"Price":"2000",
+		"Description":"This is leather shoe. You can find it in black and Brown",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2004.08.15/M98%20SF3135%20-%20Burgundy/_DSC2015.jpg"},
+		
+		{"id":"g4",
+		"Quality":"good",
+		"Price":"2050",
+		"Description":"This is superior quality of shoe made in Japan. It is very comfortable and looks good on everyone. It is found in grey, black, brown and maroon.",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2004.08.15/M97%20SF3142%20-%20Brown/_DSC2011.jpg"},
+		
+		{"id":"g5",
+		"Quality":"excellent",
+		"Price":"3060",
+		"Description":"It is quality product of Nepal. You can find it in black and grey colour.",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2004.08.15/M95%20SF3136%20-%20Dark%20Navy/_DSC1937.jpg"},
+		
+		{"id":"g6",
+		"Quality":"good",
+		"Price":"1500",
+		"Description":"This shoe is from India. Available colours are green, blue, black, maroon, grey and brown.",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2030.07.14%20pt2/Mens%20Somerset%20Shoes/6140%20-%20Brown/Image_%20160.jpg"},
+		
+		{"id":"g7",
+		"Quality":"average",
+		"Price":"1000",
+		"Description":"This is a comfortable shoe made from high quality materials.Black, brown and grey colour is available.",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2004.08.15/M96%20SF3143%20-%20Brown/_DSC1962.jpg"},
+		
+		{"id":"g8",
+		"Quality":"good",
+		"Price":"1200",
+		"Description":"This shoe is synthetic one. It comes in variation of colors like brown and black.",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2001.06.14/72015%20-%20Stone%20Redwood/Img_%2084.jpg"},
+		
+		{"id":"g9",
+		"Quality":"excellent",
+		"Price":"3500",
+		"Description":"This shoe is manufactured in China. It is of good quality made specially for you. Available in variant colors.",
+		"Image":"http://www.jadoregroup.net/hosting/New%20Pics%2030.07.14%20pt2/Mens%20Somerset%20Shoes/SH2473-4%20-%20Tan/image_72.jpg"}
+		
+		]
+    }
+}

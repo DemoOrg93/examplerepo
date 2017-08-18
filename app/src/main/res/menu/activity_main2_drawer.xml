@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/nav_ladiesshoe"
+            android:icon="@drawable/ladyicon"
+            android:title="Ladies Shoe" />
+        <item
+            android:id="@+id/nav_gentsshoe"
+            android:icon="@drawable/gentsicon"
+            android:title="Gents Shoe" />
+        <item
+            android:id="@+id/nav_kidsshoe"
+            android:icon="@drawable/kidsicon"
+            android:title="Kids Shoe" />
+        <item
+            android:id="@+id/nav_myorders"
+            android:icon="@drawable/toolsicon"
+            android:title="My Orders" />
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ordericon"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/helpicon"
+                android:title="Help" />
+        </menu>
+    </item>
+
+</menu>
